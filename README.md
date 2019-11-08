@@ -1,2 +1,4 @@
 # Assignmen6
 As studying the data from the 3D visualization,I took for the Age,BMI and BP and i did the analyzation for the Male and Female Diabetic rate.So The BMI is the Body mass index so it covers the two aspects that is Weight and Height. So There should be equality between the Weight and Height.So if weight is more than the height and it can't handle that weight so There are chances that the person should be suffering from Diabetes and will be prone to more Blood pressure. And here Age plays the vital role too.From the 3D visualization I relate three fields.So The more people between the Range 30-60 have the BMI ranging between mostly in 25-40 and has the BP level is mostly above 110.So in the 3d visualization i get to know that male is more prone to diabetes than female because of the increased BMA and more rate of Blood Pressure
+
+![diabetes](diabetes_diagnosis_scatter_3d.png)
